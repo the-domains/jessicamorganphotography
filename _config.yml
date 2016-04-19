@@ -1,6 +1,6 @@
 name: jessicamorganphotography
 favicon: null
-layout_spectrum: 0.167122564278543
+layout_spectrum: 1
 typography_spectrum: 0.2696711455937475
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.17046211753040552
-  lightness: 0.3946671294979751
+    - '#483828'
+    - '#867665'
+    - '#cab9a9'
+    - '#000000'
+    - '#fffffe'
+  brandStrength: 0.75
+  lightness: 0.5
   saturation: 0.6462574540637434
   rhythmicContrast: 0.09511381550692022
 purpose: []
