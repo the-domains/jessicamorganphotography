@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jessicamorganphotography]]></title>
+        <description><![CDATA[jessicamorganphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Apr 2016 00:21:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jessica Morgan Photography]]></title>
+            <description><![CDATA[<article><h1>Jessica Morgan Photography</h1><p>Jessica Morgan Photography specializes in engagement, senior, family, couple, and headshot photography.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b907f9cd17ac0a524199f1207eb27026930d1f56.jpg"></article>]]></description>
+            <link>undefinedjessica-morgan-photography/index.html</link>
+            <guid isPermaLink="false">26e2d75a-13c2-4772-b76c-0d7f6c20f31e</guid>
+            <pubDate>Tue, 19 Apr 2016 00:20:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
