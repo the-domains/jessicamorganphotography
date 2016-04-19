@@ -1,7 +1,7 @@
 name: jessicamorganphotography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2696711455937475
+layout_spectrum: 0
+typography_spectrum: 0.65692
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#cab9a9'
     - '#000000'
     - '#fffffe'
-  brandStrength: 0.75
+  brandStrength: 0.125
   lightness: 0.5
-  saturation: 0.6462574540637434
+  saturation: 0.875
   rhythmicContrast: 0.09511381550692022
 purpose: []
